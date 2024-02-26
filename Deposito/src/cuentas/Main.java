@@ -1,5 +1,13 @@
 package cuentas;
 
+/**
+ * Clase Main
+ * 
+ * Opera con un objeto Ccuenta
+ * 
+ * @author Lucía Méndez Rodríguez
+ * @version 1.0
+ */
 public class Main {
 
     public static void main(String[] args) {
