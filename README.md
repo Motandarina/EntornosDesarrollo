@@ -8,11 +8,15 @@ El ejercicio consiste en la refactorización de una clase Java existente, aplica
 
 ## Contenido del Repositorio
 
-- **src/**: Directorio que contiene el código fuente del ejercicio.
+- **src/cuentas**: Directorio que contiene el código fuente del ejercicio.
   - **Main.java**: Archivo principal que contiene la clase refactorizada.
   - **CCuenta.java**: Archivo que contiene la clase refactorizada
-- **doc/**: Directorio que contiene la documentación generada.
+- **javadoc/**: Directorio que contiene la documentación generada.
   - **index.html**: Página principal de la documentación JavaDoc.
+- **nbproject/**: Directorio que contiene las propiedades del proyecto de NetBeans.
+  - **index.html**: Página principal de la documentación JavaDoc.
+- **build.xml**: Configuración de construcción automática en proyectos Java.
+- **manifest.mf**: Metadatos esenciales para aplicaciones Java empaquetadas (archivo JAR).
 
 ## Autor
 
